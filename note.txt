@@ -1,0 +1,8 @@
+to add a port to environment variable on mac run
+export PORT=<port number>
+
+node parkages
+jshint javascript testing library for testing jshint
+joi for validating user input
+config for setting config settings : NB secrete logins shouldn't be store in the config files
+debug for debugging 
